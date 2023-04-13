@@ -1,0 +1,27 @@
+<html>
+<head>
+<body>
+<style> td, th { border: 1px solid black; } </style>
+
+<table style="width:100%">
+  <tr style="height:20vh">
+    <th style="width:30%"  colspan="3"><h1>Żywienie</h1></th>
+  </tr>
+  <tr style="height:80vh" style="width:10vw">
+    <td VALIGN="top"><a href="index.html">Strona główna</a><br><a href="strona2.html">Gatunki</a><br><a href="strona3.html">Budowa</a><br><a href="strona4.html">żywienie</a><br><a href="strona5.html">Hodowla</a><br><a href="strona6.html">Płeć</a></td>
+    <td colspan="2" valign="top">
+	
+	
+	<p><br>
+	Gęsi to ptaki roślinożerne, głównie trawożerne. Decydującą rolę w ich żywieniu ogrywają zielonki, które im dowozimy, pastwiska, na których wypasamy gęsi, ale także nieużytki, sady, pozostałości warzyw i owoców. Gęsi bardzo lubią marchew, kapustę, pozostałości po ścięciu kalafiorów czy brokułów.
+	</p>
+<img src="wykres.jpg">	
+	</td>
+  
+  
+  </tr>
+</table>
+
+</html>
+</head>
+</body>

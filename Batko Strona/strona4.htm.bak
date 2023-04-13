@@ -1,0 +1,33 @@
+<html>
+<head>
+<body>
+<style> td, th { border: 1px solid black; } </style>
+
+<table style="width:100%">
+  <tr style="height:20vh">
+    <th style="width:30%"  colspan="3"><h1>Żywienie</h1></th>
+  </tr>
+  <tr style="height:80vh" style="width:10vw">
+    <td VALIGN="top"><a href="index.html">Strona główna</a><br><a href="strona2.html">Gatunki</a><br><a href="strona3.html">Budowa</a><br><a href="strona4.html">żywienie</a><br><a href="strona5.html">Hodowla</a><br><a href="strona6.html">Płeć</a></td>
+    <td colspan="2" valign="top">
+	
+	
+	<p><br>Gęsi, gęsiowate – podrodzina ptaków z rodziny kaczkowatych. Obejmuje gatunki wodne, zamieszkujące cały świat. Te duże ptaki charakteryzują się brakiem różnic w ubarwieniu między samcem i samicą
+	
+<h3>Kategoria nadrzędna:</h3> Kaczkowate
+<h3>Długość życia:</h3> Bernikla kanadyjska: 10 – 24 lata, Gęś łabędzionosa: 20 lat
+<h3>Liczba składanych jaj:</h3> Bernikla kanadyjska: 2 – 9, 
+<h3>Rozpiętość skrzydeł:</h3> Bernikla kanadyjska: 1,3 – 1,8 m, 
+<h3>Gromada:</h3> ptaki
+<h3>Królestwo:</h3> zwierzęta
+	</p>
+<img src="wykres.jpg">	
+	</td>
+  
+  
+  </tr>
+</table>
+
+</html>
+</head>
+</body>

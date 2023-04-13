@@ -1,0 +1,24 @@
+<html>
+<head>
+<body>
+<style> td, th { border: 1px solid black; } </style>
+
+<table style="width:100%">
+  <tr style="height:20vh">
+    <th style="width:30%"  colspan="3"><h1>Budowa</h1></th>
+  </tr>
+  <tr style="height:80vh">
+    <td  VALIGN="top"><a href="index.html">Strona główna</a><br><a href="strona2.html">Gatunki</a><br><a href="strona3.html">Budowa</a><br><a href="strona4.html">żywienie</a><br><a href="strona5.html">Hodowla</a><br><a href="strona6.html">Płeć</a></td>
+    <td colspan="2" valign="top">
+	<p><br>
+	Gęsi roman (Ro) - upierzenie białe, dziób barwy pomarańczowej, nogi czerwonopomarańczowe, szyja smukła dosyć długa, głowa mała, pierś pełna i wypukła, grzbiet długi i łagodnie zaokrąglony po bokach, brzuch szeroki pełny, często z dobrze rozwiniętym podwójnym fałdem tłuszczowym, nogi mocne szeroko rozstawione.
+	</p>
+	<br><br>
+	<img src="budowa.jpg">
+	</td>
+  </tr>
+</table>
+
+</html>
+</head>
+</body>

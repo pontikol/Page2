@@ -1,0 +1,7 @@
+
+<frameset rows="10%,*">
+	<frame src="strona1.html">
+<frameset cols="10%,*">
+	<frame src="pasek.html">
+	<frame src="index.html">
+</frameset>
